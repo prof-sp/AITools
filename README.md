@@ -1,11 +1,5 @@
 # 🧩 AI Development Project — Classical ML, Deep Learning & NLP
 
-### **Author:** *Your Name*  
-### **Course:** Artificial Intelligence & Machine Learning  
-### **Date:** October 2025  
-
----
-
 ## 📘 Overview
 
 This project demonstrates applied AI development across three major domains:
@@ -23,7 +17,7 @@ It also includes sections on **ethical considerations** and **debugging TensorFl
 ```bash
 AITools/
 │
-├── week3.ipynb      # Classical ML task, # CNN Deep Learning task, # NLP with spaCy
+├── part2.ipynb      # Classical ML task, # CNN Deep Learning task, # NLP with spaCy
 ├── part1.pdf       
 ├── part3.pdf                               
 └── README.md                           # Project documentation
